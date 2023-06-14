@@ -16,4 +16,9 @@ The dictionary `megnist` has the following keys: `X_train`, `y_train`, `X_val`, 
 
 The validation and test splits have the same dimensions, except for the number of examples (1,000 instead of 10,000).
 
-A dimensionality reduced version of the dataset (64 channels) can be downloaded [here](https://drive.google.com/file/d/1J1Fnd1ie5L9ffpRN5os_1vBxzJ3L6PCx/view?usp=sharing) (1.43 GB). 
+Dimensionality reduced versions of the dataset can be downloaded below:
+
+* [16 channels](https://drive.google.com/file/d/1JEzD9GOSDNaHfHbHzcuJdQksBss4h2Rk/view?usp=sharing) (366.3 MB). 
+* [32 channels](https://drive.google.com/file/d/1VkemXsFP0oxde-2Dbqo60Qs-_e3VYgJy/view?usp=sharing) (732.5 MB). 
+* [64 channels](https://drive.google.com/file/d/1J1Fnd1ie5L9ffpRN5os_1vBxzJ3L6PCx/view?usp=sharing) (1.43 GB). 
+* [128 channels](https://drive.google.com/file/d/1sixVpkDhlagEdwVuW9a3VaXD6npoBJwQ/view?usp=sharing) (2.86 GB). 
