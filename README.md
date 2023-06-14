@@ -14,7 +14,7 @@ The dictionary `megnist` has the following keys: `X_train`, `y_train`, `X_val`, 
 
 `megnist['X_train']` is a 3-dimensional numpy array of floats with shape (10,000 examples, 306 channels, 250 time steps). `megnist['y_train']` is a 1-dimensional numpy array of integers (0, ..., 9) with 10,000 examples.
 
-The validation and test splits have the same dimensions, except for the number of examples (1,000 instead of 10,000).
+The validation and test splits have the same dimensions, except for the number of examples (1,000 examples).
 
 Dimensionality reduced versions of the dataset can be downloaded below:
 
